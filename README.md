@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonrossato&show_icons=true&locale=en&layout=compact" alt="jonrossato" /></p>
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonrossato&show_icons=true&locale=en" alt="jonrossato" /></p>
-
-![Snake animation](https://github.com/jonrossato/jonrossato/blob/output/github-contribution-grid-snake.svg)
